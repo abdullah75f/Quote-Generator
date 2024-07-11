@@ -37,3 +37,8 @@ const quotes = [{
     quote:`"Believe you can and you're halfway there." `,
     person: `Theodore Roosevelt`
 }];
+
+
+btn.addEventListener("click", function(){
+    let random = Math.floor(Math.random * quotes.length());
+} )
