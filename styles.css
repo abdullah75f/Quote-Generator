@@ -6,3 +6,15 @@
     font-family:"Lato", sans-serif;
 }
 
+
+
+body{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+    text-align:center;
+    background:url(img)
+
+
+}
