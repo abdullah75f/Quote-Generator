@@ -16,3 +16,9 @@ body{
     text-align:center;
     background:url(img/1.jpg) ;
 }
+
+
+.container{
+    width: 0px;
+    height:450px;
+}
