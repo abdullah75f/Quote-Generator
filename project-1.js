@@ -36,4 +36,4 @@ const quotes = [{
 },{
     quote:`"Believe you can and you're halfway there." `,
     person: `Theodore Roosevelt`
-}]
+}];
