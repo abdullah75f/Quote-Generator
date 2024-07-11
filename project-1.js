@@ -23,17 +23,17 @@ const quotes = [{
     person: `Winston Churchill`
 },{
     quote:`"The future belongs to those who believe in the beauty of their dreams."`,
-    person: `Steve Jobs`
+    person: `Eleanor Roosevelt`
 },{
-    quote:`"The only way to do great work is to love what you do."`,
-    person: `Steve Jobs`
+    quote:`"The best way to predict the future is to create it." `,
+    person: `Peter Drucker`
 },{
-    quote:`"The only way to do great work is to love what you do."`,
-    person: `Steve Jobs`
+    quote:`"Don't watch the clock; do what it does. Keep going." `,
+    person: `Sam Levenson`
 },{
-    quote:`"The only way to do great work is to love what you do."`,
-    person: `Steve Jobs`
+    quote:`"The biggest risk is not taking any risk. In a world that's changing quickly, the only strategy that is guaranteed to fail is not taking risks." `,
+    person: `Mark Zuckerberg`
 },{
-    quote:`"The only way to do great work is to love what you do."`,
-    person: `Steve Jobs`
+    quote:`"Believe you can and you're halfway there." `,
+    person: `Theodore Roosevelt`
 }]
